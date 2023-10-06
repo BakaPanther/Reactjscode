@@ -1,0 +1,102 @@
+*{
+  /* margin-left: 1%; */
+
+}
+
+.carousels{
+  text-align: center;
+  width: 100%;
+}
+.button-more{
+  width: 15% ;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.button-all-of-type{
+    padding-left: 83%;
+}
+.card-btn{
+  color: white;
+  text-decoration: none;
+}
+.detail-img{
+  height: 100%;
+  width: 100%;
+}
+.type-product{
+  color: #495057;
+    font-weight: bold;
+    font-size: xx-large;
+    padding-left: 6%;
+}
+
+.xem{
+  text-decoration: none;
+  color: black;
+}
+.height-img{
+  height: 287px;
+
+}
+.carousel-img{
+  width: 80%;
+}
+.form-dangnhap{
+  display: grid; justify-content: center; align-items:center;
+}
+.form-dangnhap button{
+  height: 50;
+    margin: 10px;
+    background-color: #6262e9;
+    color: white;
+}
+
+.mua-hang{
+  position: absolute;
+}
+.thanh-toan{
+  margin-left: 900px;
+}
+/* Log in */
+.form-dangnhap,.form-dangky,.form-repass{
+  padding: 9%;
+  background: #00b1e3;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 10%;
+}
+.form-dangnhap h3{
+  text-align: center;
+  margin-bottom:12%;
+  color: #fff;
+}
+.btnSubmit{
+  font-weight: 600;
+  width: 100%;
+  color: #282726;
+  background-color: #fff;
+  border: none;
+  border-radius: 1.5rem;
+  padding:2%;
+}
+.btnSubmit:hover{
+  background-color: rgb(64, 130, 130);
+}
+.btnRegister,.btnForgetPwd{
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+.btnRegister:hover,.btnForgetPwd:hover{
+  text-decoration:none;
+  color:#9e8787;
+}
+.dangnhap-container,.dangky-container,.repass-container{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.form-dangky h3,.form-repass h3{
+  color:white;
+}
+
+
